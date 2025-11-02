@@ -105,7 +105,7 @@ These documents include:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pawandasila/postman.git
+   git clone https://github.com/devgupta4526/postman.git
    cd postman
    ```
 
@@ -397,8 +397,8 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-**Developer**: Pawan Dasila  
-**Repository**: [github.com/Pawandasila/postman](https://github.com/Pawandasila/postman)
+**Developer**: Dev Gupta  
+**Repository**: [github.com/devgupta4526/postman](https://github.com/devgupta4526/postman)
 
 ---
 
